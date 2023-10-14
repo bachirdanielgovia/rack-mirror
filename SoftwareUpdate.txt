@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
